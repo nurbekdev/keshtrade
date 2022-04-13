@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://aruzikulov.github.io/shoptima/* https://shoptima.uz/:splat 301!

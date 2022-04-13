@@ -1,0 +1,19 @@
+- name: xcmg
+  image: /assets/img/xcmg-logo.png
+  url: https://www.shoptima.uz/
+
+- name: dongyue
+  image: /assets/img/dongyue_logo.png
+  url: https://www.shoptima.uz/
+
+- name: camc
+  image: /assets/img/camc_logo.png
+  url: https://shoptima.uz/
+
+- name: taobao
+  image: /assets/img/taobao_logo.png
+  url: https://taobao.com/
+
+- name: aliexpress
+  image: /assets/img/aliexpress-logo.png
+  url: https://aliexpress.com/
